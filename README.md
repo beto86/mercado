@@ -2,7 +2,6 @@
 
 Sistema simulando um mercado.
  - possui as operaçoes de:
-    - saque
     - Cadastrar produto
     - Listar produto
     - Comprar produto
